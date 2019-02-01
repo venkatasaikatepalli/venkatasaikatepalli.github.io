@@ -1,6 +1,6 @@
 $(document).ready(function(){
     var i = 0;
-    var txt = 'Hi, I am';
+    var txt = 'Hi, I am Venkata Sai Katepalli';
     var speed = 120;
 
     function typeWriter() {
@@ -11,6 +11,7 @@ $(document).ready(function(){
         }
     }
     typeWriter();
+
     // Add smooth scrolling to all links
     $("a").on('click', function(event) {
 
