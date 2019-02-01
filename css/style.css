@@ -1,0 +1,45 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 1em;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/* colors
+black - #2D2D32
+yellow - #FAC921
+grey - #8B8B8B
+ */
+
+ .dark-block{
+     background-color: #2D2D32;
+     color: white;
+     padding-left: 100px;
+ }
+ .light-block{
+    background-color: #fff;
+    color: #2D2D32;
+    padding-left: 100px;
+}
+.m-black {
+    color: #2D2D32;
+}
+.m-white {
+    color: #fff;
+}
+.m-yellow {
+    color: #FAC921;
+}
+.m-grey {
+    color: #8B8B8B;
+}
+/* height */
+.h-100 {
+    height: 100vh;
+}
+
+/* paddings */
+.pad-0{
+    padding: 0px;
+}
